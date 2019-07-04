@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Teste ML</string>
+    <string name="title_item_detail" translatable="false">Detalhe do Item</string>
+    <string name="search_title" translatable="false">Localizar produto</string>
+    <string name="action_ok" translatable="false">OK</string>
+    <string name="empty_list" translatable="false">Lista está vazia. \nInforme um item para pesquisa.</string>
+    <string name="empty_item_detail" translatable="false">Nenhum item para visualização</string>
+    <string name="load_data_error" translatable="false">Desculpe, ocorreu um erro ao tentar carregar os dados! Tente novamente mais tarde!</string>
+    <string name="qtd" translatable="false">Quantidade: %1$d</string>
+    <string name="qtd_sold" translatable="false">Quantidade vendida: %1$d</string>
+    <string name="warring" translatable="false">Garantia: %1$s</string>
+    <string name="price" translatable="false">Preço: %1$s</string>
+    <string name="message_network_unavailable">Você está sem conexão a internet</string>
+</resources>
